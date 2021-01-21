@@ -1,3 +1,4 @@
+//I hope this works//
 let menuToggler = document.querySelector(".nav__button");
 let navLinks = document.querySelectorAll(".nav-link");
 let body = document.querySelector("body");
